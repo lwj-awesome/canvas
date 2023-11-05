@@ -16,8 +16,7 @@ function App() {
                     </header>
                     <main>
                         <div>
-                            {' '}
-                            <Nudake />{' '}
+                            <Nudake />
                         </div>
                     </main>
                 </section>
